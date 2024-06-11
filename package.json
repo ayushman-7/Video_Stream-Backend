@@ -14,6 +14,8 @@
   "author": "Ayushman",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "prettier": "^3.3.2"
   }
+  
 }
